@@ -1,0 +1,18 @@
+output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# game files: never in the repository
+romfs/
+exefs/
+*.nsp
+*.xci
+*.nca
+*.keys
